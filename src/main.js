@@ -3,6 +3,8 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import './assets/normalize.css'
+import './assets/common.scss'
 
 Vue.config.productionTip = false
 
